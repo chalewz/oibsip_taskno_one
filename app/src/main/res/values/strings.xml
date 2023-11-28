@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unit_Convertor</string>
+
+    <string-array name="from_unit">
+        <item>From Unit</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+    </string-array>
+    <string-array name="to_unit">
+        <item>To Unit</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+    </string-array>
+</resources>
